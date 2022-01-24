@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"------------Location------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"P X Poistion"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"ac_client.exe"+001100F8</Address>
+      <Offsets>
+        <Offset>34</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"P Y Poistion"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"ac_client.exe"+001100F8</Address>
+      <Offsets>
+        <Offset>38</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"P Z Poistion"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"ac_client.exe"+001100F8</Address>
+      <Offsets>
+        <Offset>3C</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"------------Health------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>28</ID>
+      <Description>"P Health"</Description>
+      <LastState Value="999" RealAddress="00DDA1F8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"ac_client.exe"+0010A280</Address>
+      <Offsets>
+        <Offset>140</Offset>
+        <Offset>34</Offset>
+        <Offset>C88</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"------------Ammo------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>33</ID>
+      <Description>"P Gun 1 Ammo"</Description>
+      <LastState Value="100" RealAddress="00DDA250"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"ac_client.exe"+00109B74</Address>
+      <Offsets>
+        <Offset>150</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>77</ID>
+      <Description>"P Grenade Count"</Description>
+      <LastState Value="95" RealAddress="00DDA258"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"ac_client.exe"+0010F4F4</Address>
+      <Offsets>
+        <Offset>158</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"-------------Recoil-------------"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>71</ID>
+      <Description>"P Recoil"</Description>
+      <LastState Value="3235715918" RealAddress="00DDA144"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"ac_client.exe"+00109B74</Address>
+      <Offsets>
+        <Offset>44</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
